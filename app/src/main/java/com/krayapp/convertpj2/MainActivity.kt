@@ -15,7 +15,7 @@ class MainActivity : MvpAppCompatActivity(), MainView {
     private val presenter by moxyPresenter { Presenter(App.instance.router, AndroidScreens()) }
     private var binding: ActivityMainBinding? = null
     private var pulltest :String? = null
-
+    private var pulltest2 :String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
