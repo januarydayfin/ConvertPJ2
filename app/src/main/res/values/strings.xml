@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConvertPJ2</string>
+    <string name="choose_file">Choose file</string>
+    <string name="convert">Convert</string>
 </resources>
